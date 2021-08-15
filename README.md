@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[Team Cognito](http://team-cognito.com/)**
+- 🔭 I’m currently working at **[Team Cognito](http://team-cognito.com/)** as an Associate Developer.
 
 - 🌱 I’m currently learning **Next.js**
 
